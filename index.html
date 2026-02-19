@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <title>Moja strona</title>
+    <link rel="stylesheet" href="css/style.css"> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gry</title>
 </head>
 <body>
-  <h1>Witaj</h1>
-  <p>To jest moja pierwsza strona na GitHub Pages.</p>
+    <div id="passGroup">
+        <input id="passInput" type="password" maxlength="12" placeholder=" " >
+        <label for="passInput" id="passLabel">Podaj hasło</label>
+    </div>
+    <div id = 'loginBtn'>OK</div>
+
+    <div id="hiddenGroup" style="display: none;">
+    <div class="games-grid">
+        <div id="pknGame" class="game-card" data-url="pkn/index_pkn.html">PKN</div>
+  
+    </div>                        
+    <div id="logOutBtn">Wyloguj</div>
+</div>
+</div>
+
+<script src = "js/script.js"></script>
 </body>
 </html>
