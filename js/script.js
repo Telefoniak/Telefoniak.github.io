@@ -41,7 +41,7 @@ class LoginApp {
         this.isBlocked = true;
 
         const enteredPass = this.passInput.value.trim();
-        if (enteredPass === atob("aGF"+"zbG8=")){
+        if (enteredPass === atob("Ymxl"+"Ymxl")){
             //console.log('zalog');
             localStorage.setItem("logged", "yes");
             this.showHiddenContent();
@@ -61,3 +61,4 @@ class LoginApp {
 }
 
 new LoginApp();
+
