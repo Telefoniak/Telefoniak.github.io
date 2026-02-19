@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    display: flex;
+    background-color: hsl(209, 75%, 86%);
+    flex-direction: column;
+    gap: 30px; /* Odstęp między inputem a przyciskiem */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /*background-color: #e0e0e0;  Kolor tła kluczowy dla efektu cieni */
+}
+
+#passGroup {
+    width: fit-content;
+    position: relative;
+}
+
+#passInput {
+    font-size: 2rem;
+    width: 14ch;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 12px;
+    outline: none;
+    background: #e0e0e0;
+    /* Efekt wypukłości (Neumorphism) */
+    box-shadow: 8px 8px 16px #bebebe, 
+                -8px -8px 16px #ffffff;
+    transition: all 0.4s ease-in-out;
+}
+
+/* Efekt wciśnięcia inputa po kliknięciu */
+#passInput:focus {
+    box-shadow: inset 6px 6px 12px #bebebe, 
+                inset -6px -6px 12px #ffffff;
+}
+
+#passLabel {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2rem;
+    color: #888;
+    pointer-events: none;
+    transition: all 0.4s ease-in-out;
+    padding: 0 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+}
+
+/* Logika przesuwania etykiety */
+#passInput:focus ~ #passLabel, 
+#passGroup:hover #passLabel, 
+#passInput:not(:placeholder-shown) ~ #passLabel {
+    top: -10px; 
+    left: 20px; /* Ustawiamy stałą odległość od lewej krawędzi */
+    transform: translate(0%, -50%);
+    font-size: 1rem;
+    color: #444;
+    background: #e0e0e0; /* Przykrywa cień pod spodem */
+    box-shadow: 8px 8px 16px #bebebe, 
+                -8px -8px 16px #ffffff;
+}
+
+#loginBtn,#logOutBtn {
+    background: #e0e0e0;
+    display: inline-block;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #666;
+    border-radius: 12px;
+    padding: 20px 50px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+    /* Ten sam efekt wypukłości co w inpucie */
+    box-shadow: 8px 8px 16px #bebebe, 
+                -8px -8px 16px #ffffff;
+    transition: all 0.2s ease-in-out;
+}
+
+#loginBtn:hover , #logOutBtn:hover{
+    background: #d6d6d6;
+    color: #333;
+}
+
+#loginBtn:active, #logOutBtn:active {
+    box-shadow: inset 6px 6px 12px #bebebe, 
+                inset -6px -6px 12px #ffffff;
+    transform: scale(0.98);
+}  
+
+#hiddenGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    width: 100%;
+}
+.games-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 25px;
+    justify-content: center;
+    max-width: calc(4 * 150px + 3 * 20px + 50px); /* maks 4 kolumny */
+}
+
+.game-card {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    background: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #666;
+    border-radius: 20px;
+    cursor: pointer;
+    user-select: none;
+    
+    /* Styl Neumorphism */
+    box-shadow: 8px 8px 16px #bebebe, 
+                -8px -8px 16px #ffffff;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.game-card:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+    color: #333;
+}
+
+.game-card:active {
+    box-shadow: inset 6px 6px 12px #bebebe, 
+                inset -6px -6px 12px #ffffff;
+}
+
