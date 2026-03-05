@@ -1,0 +1,2048 @@
+{
+  "ver": 1.0,
+
+  "agrafka": {
+    "eng": "safety pin",
+    "fonetic": "ˈseɪfti pɪn"
+  },
+  "agrest": {
+    "eng": "gooseberry",
+    "fonetic": "ˈɡʊzbəri"
+  },
+  "aksolot": {
+    "eng": "axolotl",
+    "fonetic": "ˈæksəlɒtəl"
+  },
+  "akwarium": {
+    "eng": "aquarium",
+    "fonetic": "əˈkweəriəm"
+  },
+  "ananas": {
+    "eng": "pineapple",
+    "fonetic": "ˈpaɪnæpl"
+  },
+  "aparat": {
+    "eng": "camera",
+    "fonetic": "ˈkæmərə"
+  },
+  "arbuz": {
+    "eng": "watermelon",
+    "fonetic": "ˈwɔːtəmelən"
+  },
+  "autobus": {
+    "eng": "bus",
+    "fonetic": "bʌs"
+  },
+
+  "balon": {
+    "eng": "balloon",
+    "fonetic": "bəˈluːn"
+  },
+  "banan": {
+    "eng": "banana",
+    "fonetic": "bəˈnɑːnə"
+  },
+  "bałwan": {
+    "eng": "snowman",
+    "fonetic": "ˈsnəʊmæn"
+  },
+  "beczka": {
+    "eng": "barrel",
+    "fonetic": "ˈbærəl"
+  },
+  "biedronka": {
+    "eng": "ladybug",
+    "fonetic": "ˈleɪdibʌɡ"
+  },
+  "bocian": {
+    "eng": "stork",
+    "fonetic": "stɔːk"
+  },
+  "bombka": {
+    "eng": "bauble",
+    "fonetic": "ˈbɔːbl"
+  },
+  "brama": {
+    "eng": "gate",
+    "fonetic": "ɡeɪt"
+  },
+  "buda": {
+    "eng": "kennel",
+    "fonetic": "ˈkenl"
+  },
+  "bumerang": {
+    "eng": "boomerang",
+    "fonetic": "ˈbuːməræŋ"
+  },
+  "burak": {
+    "eng": "beetroot",
+    "fonetic": "ˈbiːtruːt"
+  },
+  "buty": {
+    "eng": "shoes",
+    "fonetic": "ʃuːz"
+  },
+  "byk": {
+    "eng": "bull",
+    "fonetic": "bʊl"
+  },
+  "bęben": {
+    "eng": "drum",
+    "fonetic": "drʌm"
+  },
+
+  "cebula": {
+    "eng": "onion",
+    "fonetic": "ˈʌnjən"
+  },
+  "chleb": {
+    "eng": "bread",
+    "fonetic": "bred"
+  },
+  "chmura": {
+    "eng": "cloud",
+    "fonetic": "klaʊd"
+  },
+  "choinka": {
+    "eng": "Christmas tree",
+    "fonetic": "ˈkrɪsməs triː"
+  },
+  "cukierek": {
+    "eng": "candy",
+    "fonetic": "ˈkændi"
+  },
+  "cymbałki": {
+    "eng": "dulcimer",
+    "fonetic": "ˈdʌlsɪmə"
+  },
+  "cytryna": {
+    "eng": "lemon",
+    "fonetic": "ˈlemən"
+  },
+  "czajnik": {
+    "eng": "kettle",
+    "fonetic": "ˈketl"
+  },
+  "czapka": {
+    "eng": "cap",
+    "fonetic": "kæp"
+  },
+  "czekolada": {
+    "eng": "chocolate",
+    "fonetic": "ˈtʃɒklət"
+  },
+  "cztery": {
+    "eng": "four",
+    "fonetic": "fɔː"
+  },
+
+  "dom": {
+    "eng": "house",
+    "fonetic": "haʊs"
+  },
+  "droga": {
+    "eng": "road",
+    "fonetic": "rəʊd"
+  },
+  "drzewo": {
+    "eng": "tree",
+    "fonetic": "triː"
+  },
+  "drzwi": {
+    "eng": "door",
+    "fonetic": "dɔː"
+  },
+  "dwa": {
+    "eng": "two",
+    "fonetic": "tuː"
+  },
+  "dynia": {
+    "eng": "pumpkin",
+    "fonetic": "ˈpʌmpkɪn"
+  },
+  "dziewczynka": {
+    "eng": "girl",
+    "fonetic": "ɡɜːl"
+  },
+  "dziewięć": {
+    "eng": "nine",
+    "fonetic": "naɪn"
+  },
+  "dzięcioł": {
+    "eng": "woodpecker",
+    "fonetic": "ˈwʊdpekə"
+  },
+  "dzwonek": {
+    "eng": "bell",
+    "fonetic": "bel"
+  },
+  "długopis": {
+    "eng": "pen",
+    "fonetic": "pen"
+  },
+  "dźwig": {
+    "eng": "crane",
+    "fonetic": "kreɪn"
+  },
+  "dżdżownica": {
+    "eng": "earthworm",
+    "fonetic": "ˈɜːθwɜːm"
+  },
+
+  "fabryka": {
+    "eng": "factory",
+    "fonetic": "ˈfæktəri"
+  },
+  "fala": {
+    "eng": "wave",
+    "fonetic": "weɪv"
+  },
+  "farba": {
+    "eng": "paint",
+    "fonetic": "peɪnt"
+  },
+  "flaga": {
+    "eng": "flag",
+    "fonetic": "flæɡ"
+  },
+  "flamastry": {
+    "eng": "marker pens",
+    "fonetic": "maːkə penz"
+  },
+  "flet": {
+    "eng": "flute",
+    "fonetic": "fluːt"
+  },
+
+  "garnek": {
+    "eng": "pot",
+    "fonetic": "pɒt"
+  },
+  "gitara": {
+    "eng": "guitar",
+    "fonetic": "ɡɪˈtɑː"
+  },
+  "globus": {
+    "eng": "globe",
+    "fonetic": "ɡləʊb"
+  },
+  "gofry": {
+    "eng": "waffles",
+    "fonetic": "ˈwɒflz"
+  },
+  "gołąb": {
+    "eng": "pigeon",
+    "fonetic": "ˈpɪdʒən"
+  },
+  "grabie": {
+    "eng": "rake",
+    "fonetic": "reɪk"
+  },
+  "groch": {
+    "eng": "peas",
+    "fonetic": "piːz"
+  },
+  "gruszka": {
+    "eng": "pear",
+    "fonetic": "peə"
+  },
+  "grzechotki": {
+    "eng": "rattles",
+    "fonetic": "ˈrætlz"
+  },
+  "grzyb": {
+    "eng": "mushroom",
+    "fonetic": "ˈmʌʃruːm"
+  },
+  "guzik": {
+    "eng": "button",
+    "fonetic": "ˈbʌtən"
+  },
+  "gwiazda": {
+    "eng": "star",
+    "fonetic": "stɑː"
+  },
+  "góry": {
+    "eng": "mountains",
+    "fonetic": "ˈmaʊntɪnz"
+  },
+
+  "hak": {
+    "eng": "hook",
+    "fonetic": "hʊk"
+  },
+  "hamak": {
+    "eng": "hammock",
+    "fonetic": "ˈhæmək"
+  },
+  "hamburger": {
+    "eng": "hamburger",
+    "fonetic": "ˈhæmbɜːɡə"
+  },
+  "hantle": {
+    "eng": "dumbbells",
+    "fonetic": "ˈdʌmbelz"
+  },
+  "helikopter": {
+    "eng": "helicopter",
+    "fonetic": "ˈhelɪkɒptə"
+  },
+  "herbata": {
+    "eng": "tea",
+    "fonetic": "tiː"
+  },
+  "hipopotam": {
+    "eng": "hippopotamus",
+    "fonetic": "ˌhɪpəˈpɒtəməs"
+  },
+  "hulajnoga": {
+    "eng": "scooter",
+    "fonetic": "ˈskuːtə"
+  },
+  "hydrant": {
+    "eng": "fire hydrant",
+    "fonetic": "ˈfaɪə ˈhaɪdrənt"
+  },
+
+  "iglo": {
+    "eng": "igloo",
+    "fonetic": "ˈɪɡluː"
+  },
+  "igła": {
+    "eng": "needle",
+    "fonetic": "ˈniːdl"
+  },
+  "imadło": {
+    "eng": "vice",
+    "fonetic": "vaɪs"
+  },
+  "indyk": {
+    "eng": "turkey",
+    "fonetic": "ˈtɜːki"
+  },
+  "jabłko": {
+    "eng": "apple",
+    "fonetic": "ˈæpl"
+  },
+  "jajko": {
+    "eng": "egg",
+    "fonetic": "eɡ"
+  },
+  "jaskinia": {
+    "eng": "cave",
+    "fonetic": "keɪv"
+  },
+  "jeden": {
+    "eng": "one",
+    "fonetic": "wʌn"
+  },
+  "jednorożec": {
+    "eng": "unicorn",
+    "fonetic": "ˈjuːnɪkɔːn"
+  },
+  "jeleń": {
+    "eng": "deer",
+    "fonetic": "dɪə"
+  },
+  "jezioro": {
+    "eng": "lake",
+    "fonetic": "leɪk"
+  },
+  "jeż": {
+    "eng": "hedgehog",
+    "fonetic": "ˈhedʒhɒɡ"
+  },
+
+  "kaczka": {
+    "eng": "duck",
+    "fonetic": "dʌk"
+  },
+  "kaktus": {
+    "eng": "cactus",
+    "fonetic": "ˈkæktəs"
+  },
+  "kaloryfer": {
+    "eng": "radiator",
+    "fonetic": "ˈreɪdieɪtə"
+  },
+  "kanapka": {
+    "eng": "sandwich",
+    "fonetic": "ˈsænwɪdʒ"
+  },
+  "kapibara": {
+    "eng": "capybara",
+    "fonetic": "ˌkæpɪˈbɑːrə"
+  },
+  "kapusta": {
+    "eng": "cabbage",
+    "fonetic": "ˈkæbɪdʒ"
+  },
+  "karoca": {
+    "eng": "carriage",
+    "fonetic": "ˈkærɪdʒ"
+  },
+  "karty": {
+    "eng": "cards",
+    "fonetic": "kɑːdz"
+  },
+  "karuzela": {
+    "eng": "carousel",
+    "fonetic": "ˌkærəˈsel"
+  },
+  "kask": {
+    "eng": "helmet",
+    "fonetic": "ˈhelmɪt"
+  },
+  "kiełbasa": {
+    "eng": "sausage",
+    "fonetic": "ˈsɒsɪdʒ"
+  },
+  "klamka": {
+    "eng": "door handle",
+    "fonetic": "dɔː ˈhændl"
+  },
+  "klepsydra": {
+    "eng": "hourglass",
+    "fonetic": "ˈaʊəɡlɑːs"
+  },
+  "klocki": {
+    "eng": "blocks",
+    "fonetic": "blɒks"
+  },
+  "kokos": {
+    "eng": "coconut",
+    "fonetic": "ˈkəʊkənʌt"
+  },
+  "konewka": {
+    "eng": "watering can",
+    "fonetic": "ˈwɔːtərɪŋ kæn"
+  },
+  "koparka": {
+    "eng": "excavator",
+    "fonetic": "ˈekskəveɪtə"
+  },
+
+  "koperty": {
+    "eng": "envelopes",
+    "fonetic": "ˈenvələʊps"
+  },
+  "korona": {
+    "eng": "crown",
+    "fonetic": "kraʊn"
+  },
+  "koszyk": {
+    "eng": "basket",
+    "fonetic": "ˈbɑːskɪt"
+  },
+  "kot": {
+    "eng": "cat",
+    "fonetic": "kæt"
+  },
+  "koń": {
+    "eng": "horse",
+    "fonetic": "hɔːs"
+  },
+  "kran": {
+    "eng": "faucet",
+    "fonetic": "ˈfɔːsɪt"
+  },
+  "krawat": {
+    "eng": "tie",
+    "fonetic": "taɪ"
+  },
+  "kredki": {
+    "eng": "crayons",
+    "fonetic": "ˈkreɪənz"
+  },
+  "krokodyl": {
+    "eng": "crocodile",
+    "fonetic": "ˈkrɒkədaɪl"
+  },
+  "krowa": {
+    "eng": "cow",
+    "fonetic": "kaʊ"
+  },
+  "krzesło": {
+    "eng": "chair",
+    "fonetic": "tʃeə"
+  },
+  "książka": {
+    "eng": "book",
+    "fonetic": "bʊk"
+  },
+  "kubek": {
+    "eng": "mug",
+    "fonetic": "mʌɡ"
+  },
+  "kukurydza": {
+    "eng": "corn",
+    "fonetic": "kɔːn"
+  },
+  "kura": {
+    "eng": "hen",
+    "fonetic": "hen"
+  },
+
+  "lampa": {
+    "eng": "lamp",
+    "fonetic": "læmp"
+  },
+  "laptop": {
+    "eng": "laptop",
+    "fonetic": "ˈlæptɒp"
+  },
+  "las": {
+    "eng": "forest",
+    "fonetic": "ˈfɒrɪst"
+  },
+  "latawiec": {
+    "eng": "kite",
+    "fonetic": "kaɪt"
+  },
+  "lew": {
+    "eng": "lion",
+    "fonetic": "ˈlaɪən"
+  },
+  "lis": {
+    "eng": "fox",
+    "fonetic": "fɒks"
+  },
+  "lizak": {
+    "eng": "lollipop",
+    "fonetic": "ˈlɒlipɒp"
+  },
+  "liść": {
+    "eng": "leaf",
+    "fonetic": "liːf"
+  },
+  "lody": {
+    "eng": "ice cream",
+    "fonetic": "aɪs kriːm"
+  },
+  "lornetka": {
+    "eng": "binoculars",
+    "fonetic": "bɪˈnɒkjələz"
+  },
+  "lupa": {
+    "eng": "magnifying glass",
+    "fonetic": "ˈmæɡnɪfaɪɪŋ ɡlɑːs"
+  },
+  "lustro": {
+    "eng": "mirror",
+    "fonetic": "ˈmɪrə"
+  },
+
+  "maliny": {
+    "eng": "raspberries",
+    "fonetic": "ˈrɑːzbəriz"
+  },
+  "marchew": {
+    "eng": "carrot",
+    "fonetic": "ˈkærət"
+  },
+  "małpa": {
+    "eng": "monkey",
+    "fonetic": "ˈmʌŋki"
+  },
+  "meduza": {
+    "eng": "jellyfish",
+    "fonetic": "ˈdʒelifɪʃ"
+  },
+  "mewa": {
+    "eng": "seagull",
+    "fonetic": "ˈsiːɡʌl"
+  },
+  "mikołaj": {
+    "eng": "Santa Claus",
+    "fonetic": "ˈsæntə klɔːz"
+  },
+  "miotła": {
+    "eng": "broom",
+    "fonetic": "bruːm"
+  },
+  "mors": {
+    "eng": "walrus",
+    "fonetic": "ˈwɔːlrəs"
+  },
+  "most": {
+    "eng": "bridge",
+    "fonetic": "brɪdʒ"
+  },
+  "motor": {
+    "eng": "motorcycle",
+    "fonetic": "ˈməʊtəsaɪkl"
+  },
+  "motyka": {
+    "eng": "hoe",
+    "fonetic": "həʊ"
+  },
+  "motyl": {
+    "eng": "butterfly",
+    "fonetic": "ˈbʌtəflaɪ"
+  },
+  "mrówka": {
+    "eng": "ant",
+    "fonetic": "ænt"
+  },
+  "mucha": {
+    "eng": "fly",
+    "fonetic": "flaɪ"
+  },
+  "muszla": {
+    "eng": "shell",
+    "fonetic": "ʃel"
+  },
+  "mydło": {
+    "eng": "soap",
+    "fonetic": "səʊp"
+  },
+  "mysz": {
+    "eng": "mouse",
+    "fonetic": "maʊs"
+  },
+  "młotek": {
+    "eng": "hammer",
+    "fonetic": "ˈhæmə"
+  },
+
+  "namiot": {
+    "eng": "tent",
+    "fonetic": "tent"
+  },
+  "niedźwiedź": {
+    "eng": "bear",
+    "fonetic": "beə"
+  },
+  "nietoperz": {
+    "eng": "bat",
+    "fonetic": "bæt"
+  },
+  "nitka": {
+    "eng": "thread",
+    "fonetic": "θred"
+  },
+  "nożyczki": {
+    "eng": "scissors",
+    "fonetic": "ˈsɪzəz"
+  },
+  "nuta": {
+    "eng": "note",
+    "fonetic": "nəʊt"
+  },
+  "nóż": {
+    "eng": "knife",
+    "fonetic": "naɪf"
+  },
+
+  "obrączki": {
+    "eng": "wedding rings",
+    "fonetic": "ˈwedɪŋ rɪŋz"
+  },
+  "oczy": {
+    "eng": "eyes",
+    "fonetic": "aɪz"
+  },
+  "ognisko": {
+    "eng": "campfire",
+    "fonetic": "ˈkæmpfaɪə"
+  },
+  "ogórek": {
+    "eng": "cucumber",
+    "fonetic": "ˈkjuːkʌmbə"
+  },
+  "okno": {
+    "eng": "window",
+    "fonetic": "ˈwɪndəʊ"
+  },
+  "okulary": {
+    "eng": "glasses",
+    "fonetic": "ˈɡlɑːsɪz"
+  },
+  "orzech": {
+    "eng": "nut",
+    "fonetic": "nʌt"
+  },
+  "osiem": {
+    "eng": "eight",
+    "fonetic": "eɪt"
+  },
+  "owca": {
+    "eng": "sheep",
+    "fonetic": "ʃiːp"
+  },
+  "pająk": {
+    "eng": "spider",
+    "fonetic": "ˈspaɪdə"
+  },
+  "palma": {
+    "eng": "palm tree",
+    "fonetic": "pɑːm triː"
+  },
+  "papuga": {
+    "eng": "parrot",
+    "fonetic": "ˈpærət"
+  },
+  "parasol": {
+    "eng": "umbrella",
+    "fonetic": "ʌmˈbrelə"
+  },
+  "patelnia": {
+    "eng": "frying pan",
+    "fonetic": "ˈfraɪɪŋ pæn"
+  },
+  "paw": {
+    "eng": "peacock",
+    "fonetic": "ˈpiːkɒk"
+  },
+  "pieczątka": {
+    "eng": "stamp",
+    "fonetic": "stæmp"
+  },
+  "pieniądze": {
+    "eng": "money",
+    "fonetic": "ˈmʌni"
+  },
+  "piernik": {
+    "eng": "gingerbread",
+    "fonetic": "ˈdʒɪndʒəbred"
+  },
+  "pierogi": {
+    "eng": "dumplings",
+    "fonetic": "ˈdʌmplɪŋz"
+  },
+  "pies": {
+    "eng": "dog",
+    "fonetic": "dɒɡ"
+  },
+  "piramida": {
+    "eng": "pyramid",
+    "fonetic": "ˈpɪrəmɪd"
+  },
+  "pizza": {
+    "eng": "pizza",
+    "fonetic": "ˈpiːtsə"
+  },
+  "pięć": {
+    "eng": "five",
+    "fonetic": "faɪv"
+  },
+  "piła": {
+    "eng": "saw",
+    "fonetic": "sɔː"
+  },
+  "piłka": {
+    "eng": "ball",
+    "fonetic": "bɔːl"
+  },
+
+  "plecak": {
+    "eng": "backpack",
+    "fonetic": "ˈbækpæk"
+  },
+  "pociąg": {
+    "eng": "train",
+    "fonetic": "treɪn"
+  },
+  "poduszka": {
+    "eng": "pillow",
+    "fonetic": "ˈpɪləʊ"
+  },
+  "pomarańcza": {
+    "eng": "orange",
+    "fonetic": "ˈɒrɪndʒ"
+  },
+  "pomidor": {
+    "eng": "tomato",
+    "fonetic": "təˈmɑːtəʊ"
+  },
+  "prezent": {
+    "eng": "gift",
+    "fonetic": "ɡɪft"
+  },
+  "pszczoła": {
+    "eng": "bee",
+    "fonetic": "biː"
+  },
+  "płot": {
+    "eng": "fence",
+    "fonetic": "fens"
+  },
+
+  "radio": {
+    "eng": "radio",
+    "fonetic": "ˈreɪdiəʊ"
+  },
+  "rak": {
+    "eng": "crayfish",
+    "fonetic": "ˈkreɪfɪʃ"
+  },
+  "rekin": {
+    "eng": "shark",
+    "fonetic": "ʃɑːk"
+  },
+  "rower": {
+    "eng": "bicycle",
+    "fonetic": "ˈbaɪsɪkl"
+  },
+  "ryba": {
+    "eng": "fish",
+    "fonetic": "fɪʃ"
+  },
+  "rycerz": {
+    "eng": "knight",
+    "fonetic": "naɪt"
+  },
+  "rzeka": {
+    "eng": "river",
+    "fonetic": "ˈrɪvə"
+  },
+  "róża": {
+    "eng": "rose",
+    "fonetic": "rəʊz"
+  },
+  "różdżka": {
+    "eng": "wand",
+    "fonetic": "wɒnd"
+  },
+  "ręcznik": {
+    "eng": "towel",
+    "fonetic": "ˈtaʊəl"
+  },
+  "rękawiczki": {
+    "eng": "gloves",
+    "fonetic": "ɡlʌvz"
+  },
+
+  "saksofon": {
+    "eng": "saxophone",
+    "fonetic": "ˈsæksəfəʊn"
+  },
+  "samochód": {
+    "eng": "car",
+    "fonetic": "kɑː"
+  },
+  "samolot": {
+    "eng": "airplane",
+    "fonetic": "ˈeəpleɪn"
+  },
+  "schody": {
+    "eng": "stairs",
+    "fonetic": "steəz"
+  },
+  "ser": {
+    "eng": "cheese",
+    "fonetic": "tʃiːz"
+  },
+  "serce": {
+    "eng": "heart",
+    "fonetic": "hɑːt"
+  },
+  "siedem": {
+    "eng": "seven",
+    "fonetic": "ˈsevn"
+  },
+  "skakanka": {
+    "eng": "skipping rope",
+    "fonetic": "ˈskɪpɪŋ rəʊp"
+  },
+  "skrzydła": {
+    "eng": "wings",
+    "fonetic": "wɪŋz"
+  },
+  "smok": {
+    "eng": "dragon",
+    "fonetic": "ˈdræɡən"
+  },
+  "sowa": {
+    "eng": "owl",
+    "fonetic": "aʊl"
+  },
+  "spinacz": {
+    "eng": "paper clip",
+    "fonetic": "ˈpeɪpə klɪp"
+  },
+  "spodnie": {
+    "eng": "trousers",
+    "fonetic": "ˈtraʊzəz"
+  },
+  "statek": {
+    "eng": "ship",
+    "fonetic": "ʃɪp"
+  },
+
+  "stokrotka": {
+    "eng": "daisy",
+    "fonetic": "ˈdeɪzi"
+  },
+  "struś": {
+    "eng": "ostrich",
+    "fonetic": "ˈɒstrɪtʃ"
+  },
+  "stół": {
+    "eng": "table",
+    "fonetic": "ˈteɪbl"
+  },
+  "suknia": {
+    "eng": "dress",
+    "fonetic": "dres"
+  },
+  "syrenka": {
+    "eng": "mermaid",
+    "fonetic": "ˈmɜːmeɪd"
+  },
+  "szachy": {
+    "eng": "chess",
+    "fonetic": "tʃes"
+  },
+  "szafa": {
+    "eng": "wardrobe",
+    "fonetic": "ˈwɔːdrəʊb"
+  },
+  "szafka": {
+    "eng": "cabinet",
+    "fonetic": "ˈkæbɪnət"
+  },
+  "szalik": {
+    "eng": "scarf",
+    "fonetic": "skɑːf"
+  },
+  "sześć": {
+    "eng": "six",
+    "fonetic": "sɪks"
+  },
+  "słoik": {
+    "eng": "jar",
+    "fonetic": "dʒɑː"
+  },
+  "słoń": {
+    "eng": "elephant",
+    "fonetic": "ˈelɪfənt"
+  },
+  "słońce": {
+    "eng": "sun",
+    "fonetic": "sʌn"
+  },
+
+  "tablica": {
+    "eng": "board",
+    "fonetic": "bɔːd"
+  },
+  "taczka": {
+    "eng": "wheelbarrow",
+    "fonetic": "ˈwiːlbærəʊ"
+  },
+  "tarcza": {
+    "eng": "shield",
+    "fonetic": "ʃiːld"
+  },
+  "telefon": {
+    "eng": "phone",
+    "fonetic": "fəʊn"
+  },
+  "torebka": {
+    "eng": "handbag",
+    "fonetic": "ˈhændbæɡ"
+  },
+  "tort": {
+    "eng": "cake",
+    "fonetic": "keɪk"
+  },
+  "traktor": {
+    "eng": "tractor",
+    "fonetic": "ˈtræktə"
+  },
+  "truskawka": {
+    "eng": "strawberry",
+    "fonetic": "ˈstrɔːbəri"
+  },
+  "trzy": {
+    "eng": "three",
+    "fonetic": "θriː"
+  },
+  "tulipan": {
+    "eng": "tulip",
+    "fonetic": "ˈtjuːlɪp"
+  },
+  "tygrys": {
+    "eng": "tiger",
+    "fonetic": "ˈtaɪɡə"
+  },
+  "tęcza": {
+    "eng": "rainbow",
+    "fonetic": "ˈreɪnbəʊ"
+  },
+
+  "ucho": {
+    "eng": "ear",
+    "fonetic": "ɪə"
+  },
+  "ul": {
+    "eng": "beehive",
+    "fonetic": "ˈbiːhaɪv"
+  },
+  "usta": {
+    "eng": "lips",
+    "fonetic": "lɪps"
+  },
+  "ważka": {
+    "eng": "dragonfly",
+    "fonetic": "ˈdræɡənflaɪ"
+  },
+  "wiaderko": {
+    "eng": "bucket",
+    "fonetic": "ˈbʌkɪt"
+  },
+  "widelec": {
+    "eng": "fork",
+    "fonetic": "fɔːk"
+  },
+  "wielbłąd": {
+    "eng": "camel",
+    "fonetic": "ˈkæməl"
+  },
+  "wieloryb": {
+    "eng": "whale",
+    "fonetic": "weɪl"
+  },
+  "wiewiórka": {
+    "eng": "squirrel",
+    "fonetic": "ˈskwɪrəl"
+  },
+  "wiśnie": {
+    "eng": "cherries",
+    "fonetic": "ˈtʃeriz"
+  },
+  "worek": {
+    "eng": "sack",
+    "fonetic": "sæk"
+  },
+  "wyspa": {
+    "eng": "island",
+    "fonetic": "ˈaɪlənd"
+  },
+  "wózek": {
+    "eng": "stroller",
+    "fonetic": "ˈstrəʊlə"
+  },
+  "wąż": {
+    "eng": "snake",
+    "fonetic": "sneɪk"
+  },
+
+  "zając": {
+    "eng": "hare",
+    "fonetic": "heə"
+  },
+  "zamek": {
+    "eng": "castle",
+    "fonetic": "ˈkɑːsl"
+  },
+  "zebra": {
+    "eng": "zebra",
+    "fonetic": "ˈzebrə"
+  },
+  "zegar": {
+    "eng": "clock",
+    "fonetic": "klɒk"
+  },
+  "zero": {
+    "eng": "zero",
+    "fonetic": "ˈzɪərəʊ"
+  },
+  "zszywacz": {
+    "eng": "stapler",
+    "fonetic": "ˈsteɪplə"
+  },
+  "ząb": {
+    "eng": "tooth",
+    "fonetic": "tuːθ"
+  },
+
+  "łabądź": {
+    "eng": "swan",
+    "fonetic": "swɒn"
+  },
+  "ładowarka": {
+    "eng": "charger",
+    "fonetic": "ˈtʃɑːdʒə"
+  },
+  "ławka": {
+    "eng": "bench",
+    "fonetic": "bentʃ"
+  },
+  "łańcuch": {
+    "eng": "chain",
+    "fonetic": "tʃeɪn"
+  },
+  "łopatka": {
+    "eng": "spatula",
+    "fonetic": "ˈspætjulə"
+  },
+  "łuk": {
+    "eng": "bow",
+    "fonetic": "bəʊ"
+  },
+  "łyżwy": {
+    "eng": "ice skates",
+    "fonetic": "aɪs skeɪts"
+  },
+  "ślimak": {
+    "eng": "snail",
+    "fonetic": "sneɪl"
+  },
+  "śmietnik": {
+    "eng": "bin",
+    "fonetic": "bɪn"
+  },
+  "śmigło": {
+    "eng": "propeller",
+    "fonetic": "prəˈpelə"
+  },
+  "śruba": {
+    "eng": "screw",
+    "fonetic": "skruː"
+  },
+  "śrubokręt": {
+    "eng": "screwdriver",
+    "fonetic": "ˈskruːdraɪvə"
+  },
+  "świeczka": {
+    "eng": "candle",
+    "fonetic": "ˈkændl"
+  },
+
+  "żaba": {
+    "eng": "frog",
+    "fonetic": "frɒɡ"
+  },
+  "żaglówka": {
+    "eng": "sailboat",
+    "fonetic": "ˈseɪlbəʊt"
+  },
+  "żarówka": {
+    "eng": "light bulb",
+    "fonetic": "laɪt bʌlb"
+  },
+  "żelazko": {
+    "eng": "iron",
+    "fonetic": "ˈaɪən"
+  },
+  "żuk": {
+    "eng": "beetle",
+    "fonetic": "ˈbiːtl"
+  },
+  "żyrafa": {
+    "eng": "giraffe",
+    "fonetic": "dʒɪˈrɑːf"
+  },
+  "żyrandol": {
+    "eng": "chandelier",
+    "fonetic": "ˌʃændəˈlɪə"
+  },
+  "żółw": {
+    "eng": "turtle",
+    "fonetic": "ˈtɜːtl"
+  },
+
+  "Afryka": {
+    "eng": "Africa",
+    "fonetic": "ˈæfrɪkə"
+  },
+  "Ameryka południowa": {
+    "eng": "South America",
+    "fonetic": "saʊθ əˈmerɪkə"
+  },
+  "aniołek": {
+    "eng": "angel",
+    "fonetic": "ˈeɪndʒəl"
+  },
+  "Antarktyda": {
+    "eng": "Antarctica",
+    "fonetic": "ænˈtɑːktɪkə"
+  },
+  "armata": {
+    "eng": "cannon",
+    "fonetic": "ˈkænən"
+  },
+  "Australia": {
+    "eng": "Australia",
+    "fonetic": "ɒˈstreɪliə"
+  },
+  "Azja": {
+    "eng": "Asia",
+    "fonetic": "ˈeɪʒə"
+  },
+  "babcia": {
+    "eng": "grandmother",
+    "fonetic": "ˈɡrændˌmʌðə"
+  },
+  "bandaż": {
+    "eng": "bandage",
+    "fonetic": "ˈbændɪdʒ"
+  },
+  "biały": {
+    "eng": "white",
+    "fonetic": "waɪt"
+  },
+  "bilet": {
+    "eng": "ticket",
+    "fonetic": "ˈtɪkɪt"
+  },
+  "boisko": {
+    "eng": "sports field",
+    "fonetic": "spɔːts fiːld"
+  },
+  "bomba": {
+    "eng": "bomb",
+    "fonetic": "bɒm"
+  },
+  "butelka": {
+    "eng": "bottle",
+    "fonetic": "ˈbɒtl"
+  },
+  "chłopiec": {
+    "eng": "boy",
+    "fonetic": "bɔɪ"
+  },
+  "cyrkiel": {
+    "eng": "compass",
+    "fonetic": "ˈkʌmpəs"
+  },
+  "czarny": {
+    "eng": "black",
+    "fonetic": "blæk"
+  },
+  "czerwony": {
+    "eng": "red",
+    "fonetic": "red"
+  },
+  "delfin": {
+    "eng": "dolphin",
+    "fonetic": "ˈdɒlfɪn"
+  },
+  "deska": {
+    "eng": "board",
+    "fonetic": "bɔːd"
+  },
+  "deszcz": {
+    "eng": "rain",
+    "fonetic": "reɪn"
+  },
+  "diament": {
+    "eng": "diamond",
+    "fonetic": "ˈdaɪəmənd"
+  },
+  "drabina": {
+    "eng": "ladder",
+    "fonetic": "ˈlædə"
+  },
+  "dywan": {
+    "eng": "carpet",
+    "fonetic": "ˈkɑːpɪt"
+  },
+  "dzbanek": {
+    "eng": "jug",
+    "fonetic": "dʒʌɡ"
+  },
+  "dziadek": {
+    "eng": "grandfather",
+    "fonetic": "ˈɡrændˌfɑːðə"
+  },
+  "dziecko": {
+    "eng": "child",
+    "fonetic": "tʃaɪld"
+  },
+  "dżem": {
+    "eng": "jam",
+    "fonetic": "dʒæm"
+  },
+  "dżungla": {
+    "eng": "jungle",
+    "fonetic": "ˈdʒʌŋɡl"
+  },
+  "Europa": {
+    "eng": "Europe",
+    "fonetic": "ˈjʊərəp"
+  },
+
+  "fortepian": {
+    "eng": "grand piano",
+    "fonetic": "ɡrænd piˈænəʊ"
+  },
+  "fotel": {
+    "eng": "armchair",
+    "fonetic": "ˈɑːmtʃeə"
+  },
+  "gazeta": {
+    "eng": "newspaper",
+    "fonetic": "ˈnjuːzˌpeɪpə"
+  },
+  "gra": {
+    "eng": "game",
+    "fonetic": "ɡeɪm"
+  },
+  "grzebyk": {
+    "eng": "comb",
+    "fonetic": "kəʊm"
+  },
+  "hot dog": {
+    "eng": "hot dog",
+    "fonetic": "hɒt dɒɡ"
+  },
+  "Indianin": {
+    "eng": "Native American",
+    "fonetic": "ˈneɪtɪv əˈmerɪkən"
+  },
+  "jaszczurka": {
+    "eng": "lizard",
+    "fonetic": "ˈlɪzəd"
+  },
+  "Jowisz": {
+    "eng": "Jupiter",
+    "fonetic": "ˈdʒuːpɪtə"
+  },
+  "kalendarz": {
+    "eng": "calendar",
+    "fonetic": "ˈkælɪndə"
+  },
+  "kameleon": {
+    "eng": "chameleon",
+    "fonetic": "kəˈmiːliən"
+  },
+  "kamień": {
+    "eng": "stone",
+    "fonetic": "stəʊn"
+  },
+  "karetka": {
+    "eng": "ambulance",
+    "fonetic": "ˈæmbjələns"
+  },
+  "komin": {
+    "eng": "chimney",
+    "fonetic": "ˈtʃɪmni"
+  },
+
+  "kominek": {
+    "eng": "fireplace",
+    "fonetic": "ˈfaɪəpleɪs"
+  },
+  "kościół": {
+    "eng": "church",
+    "fonetic": "tʃɜːtʃ"
+  },
+  "kruk": {
+    "eng": "raven",
+    "fonetic": "ˈreɪvn"
+  },
+  "król": {
+    "eng": "king",
+    "fonetic": "kɪŋ"
+  },
+  "księżyc": {
+    "eng": "moon",
+    "fonetic": "muːn"
+  },
+  "kwadrat": {
+    "eng": "square",
+    "fonetic": "skweə"
+  },
+  "lalka": {
+    "eng": "doll",
+    "fonetic": "dɒl"
+  },
+  "laska": {
+    "eng": "cane",
+    "fonetic": "keɪn"
+  },
+  "lewo": {
+    "eng": "left",
+    "fonetic": "left"
+  },
+  "lina": {
+    "eng": "rope",
+    "fonetic": "rəʊp"
+  },
+  "linijka": {
+    "eng": "ruler",
+    "fonetic": "ˈruːlə"
+  },
+  "lotnisko": {
+    "eng": "airport",
+    "fonetic": "ˈeəpɔːt"
+  },
+  "magnes": {
+    "eng": "magnet",
+    "fonetic": "ˈmæɡnət"
+  },
+  "mapa": {
+    "eng": "map",
+    "fonetic": "mæp"
+  },
+  "Mars": {
+    "eng": "Mars",
+    "fonetic": "mɑːz"
+  },
+  "meteoryt": {
+    "eng": "meteorite",
+    "fonetic": "ˈmiːtiəraɪt"
+  },
+
+  "miarka": {
+    "eng": "measuring tape",
+    "fonetic": "ˈmeʒərɪŋ teɪp"
+  },
+  "miasto": {
+    "eng": "city",
+    "fonetic": "ˈsɪti"
+  },
+  "mikroskop": {
+    "eng": "microscope",
+    "fonetic": "ˈmaɪkrəskəʊp"
+  },
+  "miska": {
+    "eng": "bowl",
+    "fonetic": "bəʊl"
+  },
+  "miód": {
+    "eng": "honey",
+    "fonetic": "ˈhʌni"
+  },
+  "mleko": {
+    "eng": "milk",
+    "fonetic": "mɪlk"
+  },
+  "narty": {
+    "eng": "skis",
+    "fonetic": "skiːz"
+  },
+  "naszyjnik": {
+    "eng": "necklace",
+    "fonetic": "ˈnekləs"
+  },
+  "oaza": {
+    "eng": "oasis",
+    "fonetic": "əʊˈeɪsɪs"
+  },
+  "okrąg": {
+    "eng": "circle",
+    "fonetic": "ˈsɜːkl"
+  },
+  "opona": {
+    "eng": "tire",
+    "fonetic": "ˈtaɪə"
+  },
+  "orzeł": {
+    "eng": "eagle",
+    "fonetic": "ˈiːɡl"
+  },
+  "pajęczyna": {
+    "eng": "cobweb",
+    "fonetic": "ˈkɒbweb"
+  },
+  "pas": {
+    "eng": "belt",
+    "fonetic": "belt"
+  },
+  "pielęgniarka": {
+    "eng": "nurse",
+    "fonetic": "nɜːs"
+  },
+  "pieprz": {
+    "eng": "pepper",
+    "fonetic": "ˈpepə"
+  },
+
+  "piorun": {
+    "eng": "lightning",
+    "fonetic": "ˈlaɪtnɪŋ"
+  },
+  "pirat": {
+    "eng": "pirate",
+    "fonetic": "ˈpaɪrət"
+  },
+  "pistolet": {
+    "eng": "pistol",
+    "fonetic": "ˈpɪstl"
+  },
+  "plama": {
+    "eng": "stain",
+    "fonetic": "steɪn"
+  },
+  "plaża": {
+    "eng": "beach",
+    "fonetic": "biːtʃ"
+  },
+  "policjant": {
+    "eng": "police officer",
+    "fonetic": "pəˈliːs ˈɒfɪsə"
+  },
+  "Polska": {
+    "eng": "Poland",
+    "fonetic": "ˈpəʊlənd"
+  },
+  "pomarańczowy": {
+    "eng": "orange",
+    "fonetic": "ˈɒrɪndʒ"
+  },
+  "portfel": {
+    "eng": "wallet",
+    "fonetic": "ˈwɒlɪt"
+  },
+  "posąg": {
+    "eng": "statue",
+    "fonetic": "ˈstætʃuː"
+  },
+  "prawo": {
+    "eng": "right",
+    "fonetic": "raɪt"
+  },
+  "prosiaczek": {
+    "eng": "piglet",
+    "fonetic": "ˈpɪɡlət"
+  },
+  "prostokąt": {
+    "eng": "rectangle",
+    "fonetic": "ˈrektæŋɡl"
+  },
+  "prysznic": {
+    "eng": "shower",
+    "fonetic": "ˈʃaʊə"
+  },
+
+  "pustynia": {
+    "eng": "desert",
+    "fonetic": "ˈdezət"
+  },
+  "puszka": {
+    "eng": "can",
+    "fonetic": "kæn"
+  },
+  "płatki": {
+    "eng": "cereal",
+    "fonetic": "ˈsɪəriəl"
+  },
+  "pływanie": {
+    "eng": "swimming",
+    "fonetic": "ˈswɪmɪŋ"
+  },
+  "rodzina": {
+    "eng": "family",
+    "fonetic": "ˈfæməli"
+  },
+  "rondo": {
+    "eng": "roundabout",
+    "fonetic": "ˈraʊndəbaʊt"
+  },
+  "ręka": {
+    "eng": "hand",
+    "fonetic": "hænd"
+  },
+  "sad": {
+    "eng": "orchard",
+    "fonetic": "ˈɔːtʃəd"
+  },
+  "Saturn": {
+    "eng": "Saturn",
+    "fonetic": "ˈsætɜːn"
+  },
+  "sawanna": {
+    "eng": "savanna",
+    "fonetic": "səˈvænə"
+  },
+  "scyzoryk": {
+    "eng": "pocket knife",
+    "fonetic": "ˈpɒkɪt naɪf"
+  },
+  "sejf": {
+    "eng": "safe",
+    "fonetic": "seɪf"
+  },
+  "siatka": {
+    "eng": "net",
+    "fonetic": "net"
+  },
+  "siekiera": {
+    "eng": "axe",
+    "fonetic": "æks"
+  },
+  "siodełko": {
+    "eng": "saddle",
+    "fonetic": "ˈsædl"
+  },
+  "sklep": {
+    "eng": "shop",
+    "fonetic": "ʃɒp"
+  },
+
+  "skrzypce": {
+    "eng": "violin",
+    "fonetic": "ˌvaɪəˈlɪn"
+  },
+  "sopel": {
+    "eng": "icicle",
+    "fonetic": "ˈaɪsɪkl"
+  },
+  "stadion": {
+    "eng": "stadium",
+    "fonetic": "ˈsteɪdiəm"
+  },
+  "strażak": {
+    "eng": "firefighter",
+    "fonetic": "ˈfaɪəfaɪtə"
+  },
+  "szczotka": {
+    "eng": "brush",
+    "fonetic": "brʌʃ"
+  },
+  "szkoła": {
+    "eng": "school",
+    "fonetic": "skuːl"
+  },
+  "szop": {
+    "eng": "raccoon",
+    "fonetic": "rəˈkuːn"
+  },
+  "szynka": {
+    "eng": "ham",
+    "fonetic": "hæm"
+  },
+  "sól": {
+    "eng": "salt",
+    "fonetic": "sɔːlt"
+  },
+  "talerz": {
+    "eng": "plate",
+    "fonetic": "pleɪt"
+  },
+  "termometr": {
+    "eng": "thermometer",
+    "fonetic": "θəˈmɒmɪtə"
+  },
+  "tory": {
+    "eng": "tracks",
+    "fonetic": "træks"
+  },
+  "trójkąt": {
+    "eng": "triangle",
+    "fonetic": "ˈtraɪæŋɡl"
+  },
+  "tłum": {
+    "eng": "crowd",
+    "fonetic": "kraʊd"
+  },
+  "umywalka": {
+    "eng": "sink",
+    "fonetic": "sɪŋk"
+  },
+  "waga": {
+    "eng": "scale",
+    "fonetic": "skeɪl"
+  },
+
+  "wanna": {
+    "eng": "bathtub",
+    "fonetic": "ˈbɑːθtʌb"
+  },
+  "wiertarka": {
+    "eng": "drill",
+    "fonetic": "drɪl"
+  },
+  "wilk": {
+    "eng": "wolf",
+    "fonetic": "wʊlf"
+  },
+  "wioska": {
+    "eng": "village",
+    "fonetic": "ˈvɪlɪdʒ"
+  },
+  "wąsy": {
+    "eng": "moustache",
+    "fonetic": "məˈstɑːʃ"
+  },
+  "węzeł": {
+    "eng": "knot",
+    "fonetic": "nɒt"
+  },
+  "włącznik": {
+    "eng": "switch",
+    "fonetic": "swɪtʃ"
+  },
+  "zielony": {
+    "eng": "green",
+    "fonetic": "ɡriːn"
+  },
+  "Ziemia": {
+    "eng": "Earth",
+    "fonetic": "ɜːθ"
+  },
+  "znak": {
+    "eng": "sign",
+    "fonetic": "saɪn"
+  },
+  "złoto": {
+    "eng": "gold",
+    "fonetic": "ɡəʊld"
+  },
+  "łoś": {
+    "eng": "moose",
+    "fonetic": "muːs"
+  },
+  "łyżka": {
+    "eng": "spoon",
+    "fonetic": "spuːn"
+  },
+  "żółty": {
+    "eng": "yellow",
+    "fonetic": "ˈjeləʊ"
+  },
+  "bagno": {
+    "eng": "swamp",
+    "fonetic": "swɒmp"
+  },
+  "bieganie": {
+    "eng": "running",
+    "fonetic": "ˈrʌnɪŋ"
+  },
+  "boks": {
+    "eng": "boxing",
+    "fonetic": "ˈbɒksɪŋ"
+  },
+  "brzoza": {
+    "eng": "birch",
+    "fonetic": "bɜːtʃ"
+  },
+  "budowniczy": {
+    "eng": "builder",
+    "fonetic": "ˈbɪldə"
+  },
+  "bóbr": {
+    "eng": "beaver",
+    "fonetic": "ˈbiːvə"
+  },
+  "dentysta": {
+    "eng": "dentist",
+    "fonetic": "ˈdentɪst"
+  },
+  "dinozaur": {
+    "eng": "dinosaur",
+    "fonetic": "ˈdaɪnəsɔː"
+  },
+  "dzik": {
+    "eng": "wild boar",
+    "fonetic": "waɪld bɔː"
+  },
+  "faraon": {
+    "eng": "pharaoh",
+    "fonetic": "ˈfeərəʊ"
+  },
+  "filiżanka": {
+    "eng": "teacup",
+    "fonetic": "ˈtiːkʌp"
+  },
+  "flamaster": {
+    "eng": "marker",
+    "fonetic": "ˈmɑːkə"
+  },
+  "flaming": {
+    "eng": "flamingo",
+    "fonetic": "fləˈmɪŋɡəʊ"
+  },
+  "gałąź": {
+    "eng": "branch",
+    "fonetic": "brɑːntʃ"
+  },
+  "gokart": {
+    "eng": "go-kart",
+    "fonetic": "ˈɡəʊ kɑːt"
+  },
+  "golf": {
+    "eng": "golf",
+    "fonetic": "ɡɒlf"
+  },
+  "górnik": {
+    "eng": "miner",
+    "fonetic": "ˈmaɪnə"
+  },
+  "hiena": {
+    "eng": "hyena",
+    "fonetic": "haɪˈiːnə"
+  },
+  "hokej": {
+    "eng": "hockey",
+    "fonetic": "ˈhɒki"
+  },
+  "hydraulik": {
+    "eng": "plumber",
+    "fonetic": "ˈplʌmə"
+  },
+  "jesień": {
+    "eng": "autumn",
+    "fonetic": "ˈɔːtəm"
+  },
+  "joga": {
+    "eng": "yoga",
+    "fonetic": "ˈjəʊɡə"
+  },
+  "kangur": {
+    "eng": "kangaroo",
+    "fonetic": "ˌkæŋɡəˈruː"
+  },
+  "karate": {
+    "eng": "karate",
+    "fonetic": "kəˈrɑːti"
+  },
+  "kasztan": {
+    "eng": "chestnut",
+    "fonetic": "ˈtʃesnʌt"
+  },
+  "kawa": {
+    "eng": "coffee",
+    "fonetic": "ˈkɒfi"
+  },
+  "kemping": {
+    "eng": "camping",
+    "fonetic": "ˈkæmpɪŋ"
+  },
+  "klucz": {
+    "eng": "key",
+    "fonetic": "kiː"
+  },
+  "koala": {
+    "eng": "koala",
+    "fonetic": "kəʊˈɑːlə"
+  },
+  "kogut": {
+    "eng": "rooster",
+    "fonetic": "ˈruːstə"
+  },
+  "koliber": {
+    "eng": "hummingbird",
+    "fonetic": "ˈhʌmɪŋbɜːd"
+  },
+  "konik morski": {
+    "eng": "seahorse",
+    "fonetic": "ˈsiːhɔːs"
+  },
+  "koszykówka": {
+    "eng": "basketball",
+    "fonetic": "ˈbɑːskɪtbɔːl"
+  },
+  "kotwica": {
+    "eng": "anchor",
+    "fonetic": "ˈæŋkə"
+  },
+  "koza": {
+    "eng": "goat",
+    "fonetic": "ɡəʊt"
+  },
+  "kret": {
+    "eng": "mole",
+    "fonetic": "məʊl"
+  },
+  "latarnia": {
+    "eng": "lantern",
+    "fonetic": "ˈlæntən"
+  },
+  "lekcja": {
+    "eng": "lesson",
+    "fonetic": "ˈlesn"
+  },
+  "leniwiec": {
+    "eng": "sloth",
+    "fonetic": "sləʊθ"
+  },
+  "malowanie": {
+    "eng": "painting",
+    "fonetic": "ˈpeɪntɪŋ"
+  },
+  "megafon": {
+    "eng": "megaphone",
+    "fonetic": "ˈmeɡəfəʊn"
+  },
+  "mikrofon": {
+    "eng": "microphone",
+    "fonetic": "ˈmaɪkrəfəʊn"
+  },
+  "monety": {
+    "eng": "coins",
+    "fonetic": "kɔɪnz"
+  },
+  "mycie": {
+    "eng": "washing",
+    "fonetic": "ˈwɒʃɪŋ"
+  },
+  "nakrętka": {
+    "eng": "nut",
+    "fonetic": "nʌt"
+  },
+
+  "niemowlę": {
+    "eng": "infant",
+    "fonetic": "ˈɪnfənt"
+  },
+  "nosorożec": {
+    "eng": "rhinoceros",
+    "fonetic": "raɪˈnɒsərəs"
+  },
+  "nurek": {
+    "eng": "diver",
+    "fonetic": "ˈdaɪvə"
+  },
+  "ośmiornica": {
+    "eng": "octopus",
+    "fonetic": "ˈɒktəpəs"
+  },
+  "paprotka": {
+    "eng": "fern",
+    "fonetic": "fɜːn"
+  },
+  "papryka": {
+    "eng": "paprika",
+    "fonetic": "pæˈpriːkə"
+  },
+  "piekarnia": {
+    "eng": "bakery",
+    "fonetic": "ˈbeɪkəri"
+  },
+  "piknik": {
+    "eng": "picnic",
+    "fonetic": "ˈpɪknɪk"
+  },
+  "pingwin": {
+    "eng": "penguin",
+    "fonetic": "ˈpɪŋɡwɪn"
+  },
+
+  "plaster": {
+    "eng": "band-aid",
+    "fonetic": "ˈbændeɪd"
+  },
+  "pędzel": {
+    "eng": "paintbrush",
+    "fonetic": "ˈpeɪntbrʌʃ"
+  },
+  "rakieta": {
+    "eng": "space shuttle",
+    "fonetic": "speɪs ˈʃʌtl"
+  },
+  "rakietka": {
+    "eng": "paddle",
+    "fonetic": "ˈpædl"
+  },
+  "rolnik": {
+    "eng": "farmer",
+    "fonetic": "ˈfɑːmə"
+  },
+  "rybactwo": {
+    "eng": "fishing",
+    "fonetic": "ˈfɪʃɪŋ"
+  },
+  "ryś": {
+    "eng": "lynx",
+    "fonetic": "lɪŋks"
+  },
+  "siatkówka": {
+    "eng": "volleyball",
+    "fonetic": "ˈvɒlibɔːl"
+  },
+  "siłownia": {
+    "eng": "gym",
+    "fonetic": "dʒɪm"
+  },
+  "skakanie": {
+    "eng": "jumping",
+    "fonetic": "ˈdʒʌmpɪŋ"
+  },
+  "skorpion": {
+    "eng": "scorpion",
+    "fonetic": "ˈskɔːpiən"
+  },
+  "skunks": {
+    "eng": "skunk",
+    "fonetic": "skʌŋk"
+  },
+  "sosna": {
+    "eng": "pine tree",
+    "fonetic": "paɪn triː"
+  },
+  "starówka": {
+    "eng": "old town",
+    "fonetic": "əʊld taʊn"
+  },
+  "stonoga": {
+    "eng": "centipede",
+    "fonetic": "ˈsentɪpiːd"
+  },
+  "sęp": {
+    "eng": "vulture",
+    "fonetic": "ˈvʌltʃə"
+  },
+  "taniec": {
+    "eng": "dancing",
+    "fonetic": "ˈdɑːnsɪŋ"
+  },
+  "tenis": {
+    "eng": "tenis",
+    "fonetic": "ˈtenɪs"
+  },
+  "tipi": {
+    "eng": "tepee",
+    "fonetic": "ˈtiːpiː"
+  },
+  "wiking": {
+    "eng": "viking",
+    "fonetic": "ˈvaɪkɪŋ"
+  },
+  "winogrona": {
+    "eng": "grapes",
+    "fonetic": "ɡreɪps"
+  },
+  "zakupy": {
+    "eng": "shopping",
+    "fonetic": "ˈʃɒpɪŋ"
+  },
+  "zima": {
+    "eng": "winter",
+    "fonetic": "ˈwɪntə"
+  },
+  "złodziej": {
+    "eng": "thief",
+    "fonetic": "θiːf"
+  },
+  "łyżwiarstwo": {
+    "eng": "ice skating",
+    "fonetic": "aɪs ˈskeɪtɪŋ"
+  },
+  "łóżko": {
+    "eng": "bed",
+    "fonetic": "bed"
+  },
+  "śliwka": {
+    "eng": "plum",
+    "fonetic": "plʌm"
+  },
+  "ślub": {
+    "eng": "wedding",
+    "fonetic": "ˈwedɪŋ"
+  },
+  "żubr": {
+    "eng": "european bison",
+    "fonetic": "ˌjʊərəˈpiːən ˈbaɪsn"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

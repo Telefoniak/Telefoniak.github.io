@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nauka czytania</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="topBar">
+        <div id="scoreDisplay">0/0</div>
+        <div id="langToggle">
+            <button class="langBtn active" data-lang="pl">J. polski</button>
+            <button class="langBtn" data-lang="en">J. angielski</button>
+        </div>
+    </div>
+
+    <div id="wordArea">
+        <div id="wordDisplay"></div>
+        <div id="foneticDisplay"></div>
+    </div>
+
+    <div id="imagesArea"></div>
+
+    <div id="successOverlay">
+        <div id="successText">🎉 BRAWO! 🎉</div>
+        <canvas id="confettiCanvas"></canvas>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
