@@ -1,0 +1,88 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    font-family:Arial;
+    background:#c1dcf6;
+}
+
+/* górny pasek */
+header{
+    background:#4764e3;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color:white;
+    text-align:center;
+    padding:16px;
+    font-size:24px;
+}
+
+/* środkowa część */
+main{
+    flex:1;
+    display:flex;
+}
+
+/* kontener obrazów */
+
+#imagesArea{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+    padding:10px 20px;
+    flex:1;
+    align-items:center;
+}
+
+/* karta gry */
+
+.imageCard{
+    background:#e0e0e0;
+    border-radius:20px;
+    box-shadow:8px 8px 18px #b0c8dc, -8px -8px 18px #ffffff;
+    cursor:pointer;
+    overflow:hidden;
+    transition:transform 0.2s ease, box-shadow 0.2s ease;
+    width:220px;
+    height:280px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    user-select:none;
+    text-decoration: none;
+    outline: none;
+}
+
+.imageCard img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    pointer-events:none;
+    border-radius:20px;
+}
+
+.imageCard:hover{
+    transform:translateY(-6px);
+    box-shadow:12px 12px 24px #b0c8dc, -8px -8px 18px #ffffff;
+}
+
+.imageCard:active{
+    box-shadow:inset 6px 6px 14px #b0c8dc, inset -6px -6px 14px #ffffff;
+    transform:scale(0.97);
+}
+
+/* dolny pasek */
+
+footer{
+    background:#4764e3;
+    color:white;
+    text-align:center;
+    padding:8px;
+    font-size:14px;
+}
+
