@@ -1,7 +1,5 @@
-// Ochrona przed niezalogowanymi
-if (localStorage.getItem("logged") !== "yes") {
-    window.location.href = "../index.html";
-}
+
+
 
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 const CONFIG = {
