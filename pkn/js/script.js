@@ -8,9 +8,7 @@ const playerScoreDisplay = document.getElementById('playerScoreDisplay');
 const computerScoreDisplay = document.getElementById('computerScoreDisplay');
 let playerScore = 0;
 let computerScore = 0;
-if (localStorage.getItem("logged") !== "yes") {
-    window.location.href = "../index.html";
-}
+
 
 
 function playGame(playerChoice){
@@ -51,4 +49,5 @@ function playGame(playerChoice){
 
             break;
     }
+
 }
